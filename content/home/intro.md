@@ -20,7 +20,7 @@ design:
     color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: 30714333_10156242393853349_1373050857838346240_n.jpg # Name of image in `static/media/`.
+    image: background.HEIC # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
