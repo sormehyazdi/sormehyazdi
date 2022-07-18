@@ -35,6 +35,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sormehyazdi
+  - icon: linkedin
+    icon_pack: fab
+    link: [https://linkedin.com/in/sormeh-yazdi](https://www.linkedin.com/in/sormeh-yazdi/)
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
