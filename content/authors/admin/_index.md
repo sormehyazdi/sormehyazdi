@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sormeh Yazdi
-name_pronunciation: SOR-MAY YAZ-DEE
+name_pronunciation: 
 
 # Is this the primary user of the site?
 superuser: true
