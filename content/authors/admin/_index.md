@@ -9,10 +9,6 @@ superuser: true
 # Role/position
 role: ''
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Organizations/Affiliations
 #organizations: FinRegLab
 #- name: Sormeh Yazdi
