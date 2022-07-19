@@ -39,7 +39,7 @@ social:
   - icon: file-pdf
     icon_pack: fas
     label: View Resume
-    link: uploads/Resume_SY_2022.pdf
+    link: uploads/Resume_SY_2022_Redacted.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
