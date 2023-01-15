@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi, there! I'm **Sormeh**, a research analyst at <a href="https://finreglab.org">FinRegLab</a>.
+👋 Hi, there! I'm **Sormeh**, a scientist at <a href="[[https://finreglab.org](https://www.exponent.com)](https://www.exponent.com)">Exponent</a>.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
